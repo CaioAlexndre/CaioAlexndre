@@ -48,5 +48,5 @@ Under construction.
 
 
   
-![Caio alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalexndre&show_icons=true&theme=radical&border_radius=45&card_width=680)
+![Caio alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalexndre&show_icons=true&theme=radical&border_radius=45&card_width=900)
   

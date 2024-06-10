@@ -43,8 +43,9 @@ Under construction.
 ## Projects
 
 #### 🗂️ My main repos:
-[![Gerenciador-de-Cupons-fiscais](https://github-readme-stats.vercel.app/api/pin/?username=CaioAlexndre&repo=Gerenciador-de-Cupons-fiscais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CaioAlexndre/Etec-DemoDay)
+[![Gerenciador-de-Cupons-fiscais](https://github-readme-stats.vercel.app/api/pin/?username=CaioAlexndre&repo=Etec-DemoDay&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CaioAlexndre/Etec-DemoDay)
 [![Gerenciador-de-Cupons-fiscais](https://github-readme-stats.vercel.app/api/pin/?username=CaioAlexndre&repo=Gerenciador-de-Cupons-fiscais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CaioAlexndre/Gerenciador-de-Cupons-fiscais.git)
+
 [![Gerenciador-de-Cupons-fiscais](https://github-readme-stats.vercel.app/api/pin/?username=CaioAlexndre&repo=Gerenciador-de-Cupons-fiscais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CaioAlexndre/Gerenciador-de-Cupons-fiscais.git)[![Gerenciador-de-Cupons-fiscais](https://github-readme-stats.vercel.app/api/pin/?username=CaioAlexndre&repo=Gerenciador-de-Cupons-fiscais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CaioAlexndre/Gerenciador-de-Cupons-fiscais.git)
 
 
